@@ -19,18 +19,56 @@ body {
     /*color: #3333330;*/ /* Cor do texto */
     margin: 10px 0; /* Espaçamento entre os elementos h2 */
 }
-.grupo_identitario {
+.grupo_identitario, .na_sociedade{
     background-color: #0e1d27;
     padding: 20px;
 }
 #title {
     text-align: center; /* Centraliza o texto horizontalmente */
   }
-
+p {
+    font-size: 20px;
+}
 .conteudo h2 {
     text-indent: 20px;
 }
 .conteudo img {
     width: 276px;
     height: 183px;
+}
+
+span {
+    color: white;
+}
+.conceitos p {
+    color: white;
+}
+.na_sociedade p {
+    color: white;
+}
+
+.surgimento img {
+    width: 600px;
+    height: 540px;
+}
+.surgimento p {
+    color: white;
+}
+
+#princesa {
+    width: 1000px;
+    height: 600px;
+}
+
+#ator {
+    width: 200px;
+    height: 230px;
+}
+#ig1 {
+    width: 350px;
+    height: 400px;
+}
+#ig2 {
+    width: 260px;
+    height: 400px;
 }

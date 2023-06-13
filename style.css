@@ -19,7 +19,7 @@ body {
     /*color: #3333330;*/ /* Cor do texto */
     margin: 10px 0; /* Espaçamento entre os elementos h2 */
 }
-.grupo_identitario, .na_sociedade{
+.grupo_identitario, .na_sociedade, .leis, .afetam{
     background-color: #0e1d27;
     padding: 20px;
 }
@@ -44,6 +44,9 @@ span {
     color: white;
 }
 .na_sociedade p {
+    color: white;
+}
+.exclusao p {
     color: white;
 }
 
